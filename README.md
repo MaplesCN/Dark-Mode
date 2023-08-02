@@ -10,6 +10,8 @@
 
 # 使用
 
+首先，在`body`标签内加入ID `emoji`。
+
 手动切换
 
 > 在页脚引入`darkmode.css`和`darkmode.js`，
