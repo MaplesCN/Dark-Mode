@@ -12,8 +12,10 @@
 
 手动切换
 
-> 在需要的地方加上`<a id="dark-toggler"></a>`。
+> 在页脚引入`darkmode.css`和`darkmode.js`，
+> 在需要切换按钮的地方加上`<a id="dark-toggler"></a>`。
 
 自动切换
 
-> 将`auto-darkmode.css`内容以`<style></style>`形式加入页脚。
+> 直接引入`auto-darkmode.css`，
+> 或将`auto-darkmode.css`内容以`<style></style>`加入页脚。
