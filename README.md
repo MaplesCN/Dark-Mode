@@ -12,7 +12,7 @@
 
 手动切换
 
-> 在需要的地方加上`<a id="dark-toggler"></a>`
+> 在需要的地方加上`<a id="dark-toggler"></a>`。
 
 自动切换
 
