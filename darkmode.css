@@ -1,0 +1,1 @@
+.dark-mode body,.dark-mode iframe,.dark-mode img:not(.dark),.dark-mode video,.dark-mode emoji,.dark-mode .dark:not(img){filter:invert(1) hue-rotate(180deg)}
