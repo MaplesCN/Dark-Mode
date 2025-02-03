@@ -4,7 +4,7 @@
 
 可以排除图片、视频、iframe、emoji文字。
 
-# [演示](https://1piece.cn/Maples)
+# [演示](https://1word.cn/Maples)
 
 点击页脚手动切换。
 
