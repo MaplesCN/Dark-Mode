@@ -10,7 +10,8 @@
 
 # 使用
 
-首先，在`body`标签内加入ID `emoji`。
+首先，在`body`标签内加入ID `emoji`，
+还有 Font awesome 的图标字体。
 
 手动切换
 
